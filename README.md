@@ -1,2 +1,5 @@
-# CSM3123-Lab-5
-Lab 5 - Using ACTION_DIAL, ACTION_CALL, ACTION_SENDTO and SEND_SMS
+# CSM3123 Native Mobile Programming Lab 5
+
+## Name: Ahmad Afif Syahmi bin Ahmad Rozali
+## Matric: S65526
+## Date: 10.12.2024
